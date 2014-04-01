@@ -1,0 +1,349 @@
+NOVUS Program Words and Phrase List,,
+,,
+XML Tag,English,Armenian
+submitMsg,Are you sure you want to submit your decisions for this round?,Հայաստան
+submitCap,Submit?,Հայաստան
+exitMsg,Are you sure you want to exit? All your decisions will be lost.,Հայաստան
+exitCap,Exit?,Հայաստան
+resetMsg,Are you sure you want to reset the game? All of your decisions will be lost.,Հայաստան
+resetCap,Reset?,Հայաստան
+resetSuccessMsg,Game successfully reset,Հայաստան
+resetSuccessCap,Game Reset,Հայաստան
+tmMsg,Teacher Mode Passcode,Հայաստան
+tmCap,Teacher Mode  ,Հայաստան
+pcFailMsg,Incorrect Passcode!,Հայաստան
+vidFileFailMsg,This video file cannot be loaded locally or from YouTube.com!,Հայաստան
+vidFileFailCap,Video File Not Found!,Հայաստան
+file_lbl,File,Հայաստան
+reset_lbl,Reset Game,Հայաստան
+exit_lbl ,Exit Program,Հայաստան
+languages_lbl,Languages,Հայաստան
+help_lbl,Help,Հայաստան
+about_lbl,About Novus,Հայաստան
+tm_lbl,Teacher Mode,Հայաստան
+yearSelect_lbl,Select Year,Հայաստան
+yearsComplete_lbl,Current Year in Game,Հայաստան
+year_lbl,Year,Հայաստան
+complete_lbl,Game Complete,Հայաստան
+lessonSelect_lbl,Select Training,Հայաստան
+lessonList_lbl,Lesson List,Հայաստան
+lesson_lbl,Lesson  ,Հայաստան
+back_lbl,Back,Հայաստան
+roundDecisions_lbl,Round Decisions,Հայաստան
+y1l1_lbl,Lesson 1: The Vision and Mission Statements,Հայաստան
+y1l2_lbl,Lesson 2: Market and SWOT Analysis,Հայաստան
+y1l3_lbl,Lesson 3: Startup Capital & Financing,Հայաստան
+y1l4_lbl,Lesson 4: Essential Economic Principles,Հայաստան
+y1l5_lbl,Excel 1: Excel Basics,Հայաստան
+y1l6_lbl,PowerPoint 1: PowerPoint Basics,Հայաստան
+y2l1_lbl,Lesson 5: Market Research,Հայաստան
+y2l2_lbl,Lesson 6: Forecasting,Հայաստան
+y2l3_lbl,Lesson 7: Managerial Economics,Հայաստան
+y2l4_lbl,Lesson 8: Placement and Promotion,Հայաստան
+y2l5_lbl,Excel 2: Data Entry,Հայաստան
+y2l6_lbl,Word 1: Word Basics,Հայաստան
+y3l1_lbl,Lesson 9: Managing People,Հայաստան
+y3l2_lbl,Lesson 10: Brands,Հայաստան
+y3l3_lbl,Lesson 11: Understanding the Income Statement,Հայաստան
+y3l4_lbl,Lesson 12: Supply Chain Management,Հայաստան
+y3l5_lbl,Word 2: Advanced Formatting,Հայաստան
+y3l6_lbl,PowerPoint 2: Slide Design,Հայաստան
+y4l1_lbl,Lesson 13: The Balance Sheet and Key Financial Ratios,Հայաստան
+y4l2_lbl,Lesson 14: Working Capital Management,Հայաստան
+y4l3_lbl,Lesson 15: Strategic Planning,Հայաստան
+y4l4_lbl,Lesson 16: Customer Relationship Management,Հայաստան
+y4l5_lbl,Excel 3: Data Analysis,Հայաստան
+y4l6_lbl,Word 3: Enhancing Documents,Հայաստան
+y5l1_lbl,Lesson 17: Ethics and Corporate Social Responsibility,Հայաստան
+y5l2_lbl,Lesson 18: Competitive Analysis,Հայաստան
+y5l3_lbl,Lesson 19: Analyzing Cash Flow,Հայաստան
+y5l4_lbl,Lesson 20: Macroeconomics,Հայաստան
+y5l5_lbl,Excel 4: Report Generation,Հայաստան
+y5l6_lbl,Word 4: Further Functions,Հայաստան
+y6l1_lbl,Lesson 21: Core Competency and Competitive Advantage,Հայաստան
+y6l2_lbl,Lesson 22: Porter's Five Forces Theory,Հայաստան
+y6l3_lbl,Lesson 23: Leadership and Teambuilding,Հայաստան
+y6l4_lbl,Lesson 24: Writing a Business Plan,Հայաստան
+y6l5_lbl,PowerPoint 3: Advanced Slide Design,Հայաստան
+y6l6_lbl,Armenian Business Resources,Հայաստան
+searching_lbl,Searching for file,Հայաստան
+wrongFileMsg,Incorrect File! You need the following file,Հայաստան
+wrongFileCap,Incorrect File!  ,Հայաստան
+sourceSelect_title,Video File not found in installation directory!,Հայաստան
+openVid_lbl,Open File Location,Հայաստան
+inetVid_lbl,Open YouTube.com Video,Հայաստան
+decisions_lbl,Decisions,Հայաստան
+equipment_lbl,Equipment and Storage,Հայաստան
+financing_lbl,Financing,Հայաստան
+production_lbl,Production,Հայաստան
+product_lbl,Products,Հայաստան
+hr_lbl,Human Resources,Հայաստան
+other_lbl,Other Spending,Հայաստան
+pfFinance_title,Pro Forma Financial Reports,Հայաստան
+incomeStmt_lbl,Income Statement,Հայաստան
+balanceSht_lbl,Balance Sheet,Հայաստան
+cashFlow_lbl,Statement of Cash Flows,Հայաստան
+ale_lbl,Ale,Այլ
+lager_lbl,Lager,Լազեր
+export_lbl,Export Results,Հայաստան
+noFileMsg,File not found!,Հայաստան
+noFileCap,File Error!,Հայաստան
+gameOverview_lbl,Game Overview,Հայաստան
+equipmentPurch_lbl,Equipment Purchasing,Հայաստան
+howTo_title,How-To Instructional Videos,Հայաստան
+yearSelect_lbl,See Market Information for Year,Հայաստան
+genInfo_title,Information,Հայաստան
+mrktInfo_title,Market Information,Հայաստան
+exportSuccessMsg,"Results successfully exported to ""My Documents/Novus Data/",Հայաստան
+exportSuccessCap,Export Success,Հայաստան
+exportFailMsg,Export Error,Հայաստան
+exportFailCap,Export Fail!,Հայաստան
+rslt_title,Last Round Results,Հայաստան
+balancedSC_lbl,Balanced Scorecard,Հայաստան
+processing_lbl,Processing Results,Հայաստան
+prodMach_lbl,Production Machine,Հայաստան
+packMach_lbl,Packaging Machine,Հայաստան
+keg_lbl,Keg,Հայաստան
+bottle_lbl,Bottle,Հայաստան
+can_lbl,Can,Հայաստան
+purchased_lbl,Purchased,Հայաստան
+notPurchased_lbl,Not Purchased,Հայաստան
+fgSpace_lbl,Finished Goods Storage Space,Հայաստան
+mach1Cycles_lbl,Machine 1 Cycles Run,Հայաստան
+mach2Cycles_lbl,Machine 2 Cycles Run,Հայաստան
+mach3Cycles_lbl,Machine 3 Cycles Run,Հայաստան
+mach4Cycles_lbl,Machine 4 Cycles Run,Հայաստան
+mach5Cycles_lbl,Machine 5 Cycles Run,Հայաստան
+ceo_lbl,CEOs,Հայաստան
+cfo_lbl,CFOs,Հայաստան
+manager_lbl,Managers,Հայաստան
+asstManager_lbl,Assistant Managers,Հայաստան
+headMarketing_lbl,Heads of Marketing,Հայաստան
+salesRep_lbl,Sales Representatives,Հայաստան
+custService_lbl,Customer Service Specialists,Հայաստան
+qualityCtrl_lbl,Quality Control Specialists,Հայաստան
+brewer_lbl,Brewers,Հայաստան
+packager_lbl,Packagers,Հայաստան
+driver_lbl,Drivers,Հայաստան
+cleaner_lbl,Cleaners,Հայաստան
+priceAK_lbl,Ale - Keg Price,Հայաստան
+priceAB_lbl,Ale - Bottle Price,Հայաստան
+priceAC_lbl,Ale - Can Price,Հայաստան
+priceLK_lbl,Lager - Keg Price,Հայաստան
+priceLB_lbl,Lager - Bottle Price,Հայաստան
+priceLC_lbl,Lager - Can Price,Հայաստան
+prodAK_lbl,Ale - Keg Production,Հայաստան
+prodAB_lbl,Ale - Bottle Production,Հայաստան
+prodAC_lbl,Ale - Can Production,Հայաստան
+prodLK_lbl,Lager - Keg Production,Հայաստան
+prodLB_lbl,Lager - Bottle Production,Հայաստան
+prodLC_lbl,Lager - Can Production,Հայաստան
+aleQuality_lbl,Ale Ingredient Quality,Հայաստան
+lagerQuality_lbl,Lager Ingredient Quality,Հայաստան
+mrktSpend_lbl,Marketing Spending,Հայաստան
+prodDev_lbl,Product Development Spending,Հայաստան
+contest_lbl,Promotional Activity,Հայաստան
+charity_lbl,Community Development,Հայաստան
+low_lbl,Low,Հայաստան
+medium_lbl,Medium,Հայաստան
+high_lbl,High,Հայաստան
+review_title,Review Decisions,Հայաստան
+yearChoice_lbl,See Decisions for Year,Հայաստան
+submit_lbl,Submit Decisions,Հայաստան
+detail_lbl,Detailed View,Հայաստան
+units_lbl,Units,Հայաստան
+prodEff_lbl,Production Effectiveness,Հայաստան
+realProd_lbl,Actual Production,Հայաստան
+realTotProd_lbl,Actual Total Production,Հայաստան
+planProd,Planned Production,Հայաստան
+planTotProd_lbl,Planned Total Production,Հայաստան
+prodEffScore_lbl,Production Effectiveness Score,Հայաստան
+salesPerf_lbl,Sales Performance,Հայաստան
+realSales_lbl,Actual Sales,Հայաստան
+realTotSales,Actual Total Sales,Հայաստան
+planSales_lbl,Planned Sales,Հայաստան
+planTotSales_lbl,Planned Total Sales,Հայաստան
+bestSales_lbl,Best Case Sales,Հայաստան
+bestTotSales_lbl,Best Case Total Sales,Հայաստան
+realMS_lbl,Actual Market Share,Հայաստան
+realTotMS_lbl,Actual Total Market Share,Հայաստան
+planMS_lbl,Planned Market Share,Հայաստան
+planTotMS,Planned Total Market Share,Հայաստան
+bestMS_lbl,Best Market Share,Հայաստան
+bestTotMS_lbl,Best Total Market Share,Հայաստան
+salesPerfScore_lbl,Sales Performance Score,Հայաստան
+keyFinRatios_lbl,Key Financial Ratios,Հայաստան
+debtEquity_lbl,Debt to Equity,Հայաստան
+currentRatio_lbl,Current Ratio,Հայաստան
+RoA_lbl,Return on Assets,Հայաստան
+RoE_lbl,Return on Equity,Հայաստան
+timesInt_lbl,EBITDA / Interest Expense,Հայաստան
+finHealthScore_lbl,Financial Health Score,Հայաստան
+employeeMoraleScore_lbl,Employee Morale Score,Հայաստան
+wcmScore_lbl,Working Capital Management Score,Հայաստան
+brandStr_lbl,Brand Strength,Հայաստան
+otherSpending_lbl,Other Spending Score,Հայաստան
+packagingDec_lbl,Packaging Decisions Score,Հայաստան
+priceToQuality_lbl,Price to Quality Match Score,Հայաստան
+brandConsistency_lbl,Brand Consistency,Հայաստան
+brandStrScore_lbl,Brand Strength Score,Հայաստան
+manEffScore_lbl,Managerial Effectiveness Score,Հայաստան
+assets_lbl,ASSETS,Հայաստան
+cash_lbl,Cash,Հայաստան
+shtTermInv_lbl,Short Term Investments,Հայաստան
+ar_lbl,Accounts Receivable,Հայաստան
+inventory_lbl,Inventory,Հայաստան
+totalCA_lbl,Total Current Assets,Հայաստան
+ppeGross_lbl,"Property, Plant and Equipment - Gross",Հայաստան
+accumDep_lbl,Accumulated Depreciation,Հայաստան
+ppeNet_lbl,"Property, Plant and Equipment - Net",Հայաստան
+totalAssets_lbl,Total Assets,Հայաստան
+liabilities_lbl,LIABILITIES,Հայաստան
+ap_lbl,Accounts Payable,Հայաստան
+stf_lbl,Short Term Financing,Հայաստան
+LoC_lbl,Line of Credit,Հայաստան
+currentLTD_lbl,Current Portion of Long Term Debt,Հայաստան
+totalCL_lbl,Total Current Liabilities,Հայաստան
+ltd_lbl,Long Term Debt,Հայաստան
+totalLiabilities_lbl,Total Liabilities,Հայաստան
+equity_lbl,EQUITY,Հայաստան
+commonStock_lbl,Common Stock,Հայաստան
+share_lbl,Share,Հայաստան
+capitalSurplus_lbl,Capital Surplus,Հայաստան
+retainedEarnings_lbl,Retained Earnings,Հայաստան
+totalEquity_lbl,Total Equity,Հայաստան
+totalLiabEquity_lbl,Total Liabilities & Equity,Հայաստան
+shareInfo_lbl,Share Information,Հայաստան
+commonSharesOut_lbl,Common Shares Outstanding,Հայաստան
+actual_lbl,Actual,Հայաստան
+forecast_lbl,Forecast,Հայաստան
+opActivities_lbl,OPERATING ACTIVITIES,Հայաստան
+netIncome_lbl,Net Income,Հայաստան
+depreciation_lbl,Depreciation,Հայաստան
+chgInAR_lbl,Change in Receivables,Հայաստան
+chgInInv_lbl,Change in Inventory,Հայաստան
+chgInAP_lbl,Change in Payables,Հայաստան
+NetCashFlowOps_lbl,Net Cash Flow From Operating Activities,Հայաստան
+investingActivities_lbl,INVESTING ACTIVITIES,Հայաստան
+capExp_lbl,Capital Expenditures,Հայաստան
+addGFA_lbl,Additions to General Fixed Assets,Հայաստան
+addTrucks_lbl,Additions to Trucks,Հայաստան
+addMach_lbl,Additions to Machinery,Հայաստան
+netCashFlowInv_lbl,Net Cash Flow From Investment Activities,Հայաստան
+FinancingActivities_lbl,FINANCING ACTIVITIES,Հայաստան
+chgShortTermFin_lbl,Change in Short Term Financing,Հայաստան
+chgShortTermLoC_lbl,Change in Line of Credit,Հայաստան
+incLTD_lbl,Increase in Long-Term Debt,Հայաստան
+decLTD_lbl,Decrease in Long-Term Debt,Հայաստան
+proceedsFromStock_lbl,Proceeds From Stock Issuance,Հայաստան
+cashDivPaid_lbl,Cash Dividends Paid,Հայաստան
+netCashFlowFin_lbl,Net Cash Flow From Financing Activities,Հայաստան
+netCashFlowAll_lbl,Net Cash Flow From All Activities,Հայաստան
+begCashBal_lbl,BEGINNING CASH BALANCE,Հայաստան
+endCashBal_lbl,ENDING CASH BALANCE,Հայաստան
+financialRatios_lbl,Financial Ratios,Հայաստան
+y2yGrowth_lbl,Year to Year Growth,Հայաստան
+grossMargin_lbl,Gross Margin,Հայաստան
+SGAofSales_lbl,SG&A as a %'age of Sales,Հայաստան
+EBITDAOpMarg_lbl,Operating Margin (ex. D&A),Հայաստան
+EBITOpMarg_lbl,Operating Margin (inc. D&A),Հայաստան
+taxRate_lbl,Tax Rate (Taxes / OM),Հայաստան
+netProfMarg_lbl,Net Profit Margin,Հայաստան
+quickRatio_lbl,Quick Ratio,Հայաստան
+cashRatio_lbl,Cash Ratio,Հայաստան
+daysInvOut_lbl,Day Inventory Outstanding,Հայաստան
+daysSalesOut_lbl,Days Sales Outstanding,Հայաստան
+daysPayablesOut_lbl,Days Payables Outstanding,Հայաստան
+ccc_lbl,Cash Conversion Cycle,Հայաստան
+roa_lbl,ROA,Հայաստան
+roe_lbl,ROE,Հայաստան
+roi_lbl,ROI,Հայաստան
+estIR_lbl,Estimated Interest Rate,Հայաստան
+revenue_lbl,Revenue,Հայաստան
+totalRevenue_lbl,Total Revenue,Հայաստան
+cogs_lbl,Cost of Goods Sold,Հայաստան
+totalCogs_lbl,Total Cost of Goods Sold,Հայաստան
+invSpoilExp_lbl,Inventory Spoilage Expense,Հայաստան
+overProdExp_lbl,Overproduction Expense,Հայաստան
+adjCogs_lbl,Adjusted COGS,Հայաստան
+totalAdjCogs_lbl,Total Adjusted COGS,Հայաստան
+grossIncome_lbl,Gross Income,Հայաստան
+totalGrossIncome_lbl,Total Gross Income,Հայաստան
+grossMargin_lbl,Gross Margin,Հայաստան
+totalGrossMargin_lbl,Total Gross Margin,Հայաստան
+opExp_lbl,Operating Expenses,Հայաստան
+totalOpExp_lbl,Total Operating Expenses,Հայաստան
+salaryWages_lbl,Salary and Wages,Հայաստան
+rent_lbl,Rent,Հայաստան
+utilities_lbl,Utilities ,Հայաստան
+fuelExp_lbl,Fuel Expense,Հայաստան
+marketingExp_lbl,Marketing Expense,Հայաստան
+prodDevExp_lbl,Production Development Expense,Հայաստան
+otherExp_lbl,Other Expenses,Հայաստան
+ebitda_lbl,EBITDA  ,Հայաստան
+depAmt_lbl,Depreciation & Amortization,Հայաստան
+ebit_lbl,EBIT,Հայաստան
+intIncome_lbl,Interest Income,Հայաստան
+intExp_lbl,Interest Expense,Հայաստան
+ebt_lbl,EBT,Հայաստան
+taxes_lbl,Taxes,Հայաստան
+sharesOut_lbl,Shares Outstanding,Հայաստան
+eps_lbl,EPS,Հայաստան
+rental_lbl,Rental Costs,Հայաստան
+rawMat_lbl,Raw Materials Storage,Հայաստան
+brewing_lbl,Brewing Floor Space,Հայաստան
+finishedGoods_lbl,Finished Goods Storage  ,Հայաստան
+percOfOutput_lbl,Percent of Annual Output,Հայաստան
+feetNeeded_lbl,Square Feet Needed,Հայաստան
+costPerFoot_lbl,Cost per Square Foot,Հայաստան
+totalRent_lbl,Total Annual Rent,Հայաստան
+amountBorrowed_lbl,Amount Borrowed,Հայաստան
+interestRate_lbl,Interest Rate,Հայաստան
+paybackPeriod_lbl,Payback Period,Հայաստան
+years_lbl,Years,Հայաստան
+equity_title,Equity,Հայաստան
+equityAmount_lbl,Amount of Equity,Հայաստան
+shares_lbl,Number of Shares,Հայաստան
+shortTermDebt_lbl,Short Term Debt,Հայաստան
+borrowLimit_lbl,Borrowing Limit,Հայաստան
+drawdown_lbl,Drawdown,Հայաստան
+capExp_title,Total Capital Expenditures,Հայաստան
+totalME_lbl,Total Manufacturing Equipment Purchases,Հայաստան
+totalPE_lbl,Total Packaging Equipment Purchases,Հայաստան
+totalCP_lbl,Total Capital Purchases,Հայաստան
+position_lbl,Position,Հայաստան
+quantity_lbl,Quantity,Հայաստան
+totAnnualCostPP_lbl,Annual Cost Per Person,Հայաստան
+totAnnualCost_lbl,Total Annual Cost,Հայաստան
+totHrCost_lbl,Total HR Cost,Հայաստան
+fcastRev_lbl,Forecasted Revenue,Հայաստան
+percOfRev_lbl,Percent of Revenue,Հայաստան
+amount_lbl,Amount,Հայաստան
+totalAmt_lbl,Total Other Spending,Հայաստան
+machine_lbl,Machine,Հայաստան
+maxCycles_lbl,Maximum Cycles,Հայաստան
+cycles_lbl,Cycles,Հայաստան
+prodCycles_lbl,Production Cycles,Հայաստան
+totAle_lbl,Total Ale Production,Հայաստան
+totLager_lbl,Total Lager Production,Հայաստան
+liters_lbl,Liters,Հայաստան
+mrktShare_lbl,Market Share,Հայաստան
+abrvLit_lbl,L,Հայաստան
+packaging_lbl,Packaging,Հայաստան
+total_lbl,Total,Հայաստան
+priceQuality_lbl,Prices and Quality,Հայաստան
+ingredientQuality_lbl,Ingredient Quality,Հայաստան
+price_lbl,Price,Հայաստան
+unit_lbl,Unit ,Հայաստան
+decisions_lbl,Decisions,Հայաստան
+finances_lbl,Forecasted Finances,Հայաստան
+canResetMsg,Password to Reset,Հայաստան
+translating_lbl,Translating,Հայաստան
+thisRoundDec_lbl,This round's decisions in bold.,Հայաստան
+annualRent_lbl,Annual Rent,Հայաստան
+packagingEquip_lbl,Packaging Equipment,Հայաստան
+manufacturingEquip_lbl,Manufacturing Equipment,Հայաստան
+kegging_lbl,Kegging Machine,Հայաստան
+bottling_lbl,Bottling Machine,Հայաստան
+canning_lbl,Canning Machine,Հայաստան
+totalProduction_lbl,Total Production,Հայաստան

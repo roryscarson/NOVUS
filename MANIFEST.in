@@ -1,0 +1,4 @@
+recursive-include novus_pkg/resources *
+include README.txt
+include COPYING.txt
+include Novus.py
