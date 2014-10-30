@@ -90,7 +90,9 @@ class Menu(wx.MenuBar):
         # Add Menus -------------------------------------------------------
         self.Append(self.file, self.file_lbl)
         # TEMPORARY -- OMIT LANGUAGES FROM MENUBAR
-#        self.Append(self.languages, self.languages_lbl)
+        #TODO Selecting Armenian language crashes program and changes language
+        # upon restart
+        self.Append(self.languages, self.languages_lbl)
         self.Append(self.help, self.help_lbl)
         
         # Bindings --------------------------------------------------------
